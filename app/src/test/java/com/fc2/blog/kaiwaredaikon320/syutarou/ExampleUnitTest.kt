@@ -1,4 +1,4 @@
-package com.example.kaiwaredaikon.syutarou
+package com.fc2.blog.kaiwaredaikon320.syutarou
 
 import org.junit.Test
 

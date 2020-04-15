@@ -1,4 +1,4 @@
-package com.example.kaiwaredaikon.syutarou
+package com.fc2.blog.kaiwaredaikon320.syutarou
 
 import android.os.Bundle
 import com.google.android.material.bottomnavigation.BottomNavigationView

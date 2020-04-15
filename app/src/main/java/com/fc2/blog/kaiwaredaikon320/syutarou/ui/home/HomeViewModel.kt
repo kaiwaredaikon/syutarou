@@ -1,4 +1,4 @@
-package com.example.kaiwaredaikon.syutarou.ui.home
+package com.fc2.blog.kaiwaredaikon320.syutarou.ui.home
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData

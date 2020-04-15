@@ -1,4 +1,4 @@
-package com.example.kaiwaredaikon.syutarou.ui.dashboard
+package com.fc2.blog.kaiwaredaikon320.syutarou.ui.dashboard
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -8,7 +8,7 @@ import android.widget.TextView
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProviders
-import com.example.kaiwaredaikon.syutarou.R
+import com.fc2.blog.kaiwaredaikon320.syutarou.R
 
 class DashboardFragment : Fragment() {
 
